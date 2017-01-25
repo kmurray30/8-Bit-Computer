@@ -1,6 +1,8 @@
 Author: Kyle Murray
 12-10-16
 
+(To run first open brandonsim then file>open>computer.circ)
+
 
 The computer created in Logisim has a word size of 8 and an accessible address space of 16 (since we use at most 3 bits in any instruction to load or store). It has 8 possible instructions and only 2 registers.
 
